@@ -214,6 +214,7 @@ body {
 .tr2 {
   position: relative;
   left: 350px;
+  width: 300px;
   bottom: 160px;
   color: #bca49c;
   font-size: 26px;
