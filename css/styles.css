@@ -1,27 +1,27 @@
 body {
   text-align: center;
     margin: 0 auto;
-    min-width: 900px;
+    min-width: 1500px;
 }
 
 
 .top_container {
   height: 1605px;
-  min-width: 900px;
+  min-width: 1500 px;
 }
 
 
 .self_photo {
   position: absolute;
   left: 50px;
-  top: 100px;
+  top: 130px;
 }
 
 .mountain {
   position: absolute;
   width: 2505px;
   height: 1000px;
-  min-width: 900px;
+  min-width: 1500px;
   left: 0px;
 }
 
@@ -61,7 +61,7 @@ body {
 
 .parag2  {
   position: absolute;
-  top: 550px;
+  top: 580px;
   margin-left: 120px;
   font-size: 24px;
   font-family: 'Nunito', sans-serif;;
@@ -71,7 +71,7 @@ body {
 
 .parag3  {
   position: absolute;
-  top: 580px;
+  top: 610px;
   margin-left: 140px;
   font-size: 24px;
   font-family: 'Nunito', sans-serif;
@@ -81,7 +81,7 @@ body {
 
 .parag4  {
   position: absolute;
-  top: 610px;
+  top: 640px;
   margin-left: 40px;
   font-size: 24px;
   font-family: 'Nunito', sans-serif;
@@ -115,7 +115,7 @@ body {
   left: 0px;
   height: 1200px;
   width: 2505px;
-  min-width: 900px;
+  min-width: 2505px;
   background-color: #6a8698;
 }
 
@@ -312,7 +312,6 @@ body {
   top: 2100px;
   height: 400px;
   width: 2505px;
-  mid-width: 900px;
   background-color: #4FD3C4;
 }
 
