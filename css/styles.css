@@ -52,7 +52,7 @@ body {
 .parag1 {
   position: absolute;
   top: 620px;
-  margin-left: 1080px;
+  left: 1080px;
   font-size: 40px;
   font-family: 'Dancing Script', cursive;
   color: #a8a6a3;
@@ -62,7 +62,7 @@ body {
 .parag2  {
   position: absolute;
   top: 580px;
-  margin-left: 120px;
+  left: 120px;
   font-size: 24px;
   font-family: 'Nunito', sans-serif;;
   color:#06225a;
@@ -72,7 +72,7 @@ body {
 .parag3  {
   position: absolute;
   top: 610px;
-  margin-left: 140px;
+  left: 140px;
   font-size: 24px;
   font-family: 'Nunito', sans-serif;
   color: #06225a;
@@ -82,7 +82,7 @@ body {
 .parag4  {
   position: absolute;
   top: 640px;
-  margin-left: 40px;
+  left: 40px;
   font-size: 24px;
   font-family: 'Nunito', sans-serif;
   color: #06225a;
